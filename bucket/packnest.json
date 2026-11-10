@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://gitee.com/null_593_5354/packnest/releases/download/v0.6.4/packnest_0.6.4_windows_amd64.zip",
-      "hash": "47f9be3af6248b7038b89a1caa60bee846b36fca69dda40fc9f7ad5fbe09a041"
+      "hash": "33b5db5ff22945d3f19e535c0bc6c9365e36f2e0401931cc15d7a3550618fcd2"
     },
     "arm64": {
       "url": "https://gitee.com/null_593_5354/packnest/releases/download/v0.6.4/packnest_0.6.4_windows_arm64.zip",
-      "hash": "e40004144437ec625eadaee1ce433bcb7a8b6a034473b1da4da3003cefaa5785"
+      "hash": "23dd42e5e55ca971c12ff9bc77d8df20f705048fc95e394acbafa34f7181fae4"
     }
   },
   "bin": [["packnest.exe", "pk"], "packnest.exe"],
