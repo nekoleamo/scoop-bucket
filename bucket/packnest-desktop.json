@@ -1,17 +1,17 @@
 {
-  "version": "0.11.4",
+  "version": "0.12.0",
   "description": "packnest 桌面端（GUI；只做 pk 的可视化补充，必须先有 CLI）",
   "homepage": "https://gitee.com/null_593_5354/packnest",
   "license": "MIT",
   "depends": "packnest",
   "architecture": {
     "64bit": {
-      "url": "https://gitee.com/null_593_5354/packnest/releases/download/gui-v0.11.4/packnest-desktop_0.11.4_windows_amd64.zip",
-      "hash": "7e5e7f573d8648cd7206b7fa691e50558e49864a5529afb15a181c2442349a39"
+      "url": "https://gitee.com/null_593_5354/packnest/releases/download/gui-v0.12.0/packnest-desktop_0.12.0_windows_amd64.zip",
+      "hash": "e2ada19cd9bee55ccf558a2685416de5b2519d855f113493b3ccfa660582fe4b"
     },
     "arm64": {
-      "url": "https://gitee.com/null_593_5354/packnest/releases/download/gui-v0.11.4/packnest-desktop_0.11.4_windows_arm64.zip",
-      "hash": "5bb3d0af268239b97a22dd65f6351d690ea33b9dd50954bb6760072a38f779f7"
+      "url": "https://gitee.com/null_593_5354/packnest/releases/download/gui-v0.12.0/packnest-desktop_0.12.0_windows_arm64.zip",
+      "hash": "9fc635ea1ac8031e4a1c56f88404d19d08eeea218e03b35b37e88b5a830dc3bc"
     }
   },
   "shortcuts": [["pk-desktop.exe", "packnest"]],
